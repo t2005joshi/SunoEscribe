@@ -1,0 +1,4 @@
+spleeter>=2.4.0
+pydub>=0.25.1
+soundfile>=0.12.1
+requests>=2.25.1
